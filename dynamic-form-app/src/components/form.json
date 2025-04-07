@@ -1,0 +1,36 @@
+{
+    "title" : "Season 5 Episode 2 Registration Form",
+    "questions": [
+
+        {
+            "text": "Best Reel According to you?",
+            "type": "String"
+        },
+        {
+            "text": "What is the capital of France?",
+            "type":"Integer"
+        },
+        {
+            "text": "What is 2 + 2?",
+            "type":"Multiple Tick answer",
+            "options": ["3", "4", "5"]
+        },
+        {
+            "text": "Which planet is known as the Red Planet?",
+            "type":"Multiple Choice Question",
+            "options": ["Earth", "Mars", "Jupiter", "Venus"]
+        },
+        {
+            "text": "Rate this movie",
+            "type": "meter"
+        },
+        {
+            "text": "Who wrote 'Romeo and Juliet'?",
+            "type": "time"
+        },
+        {
+            "text": "What is the Earth's Environment Day",
+            "type" :"Date"
+        }
+]
+}
